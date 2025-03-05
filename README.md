@@ -4,6 +4,8 @@
 <br>
 -Cambiar el nombre de .env.exmaple por .env
 <br>
+-en esta ruta storage/app/public crear la carpeta posts para que pueda guardar las imagenes.
+<br>
 <h2>Instalacion de dependencias</h2>
 -comando: composer install
 <br>
