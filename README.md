@@ -1,6 +1,6 @@
 <h1>PRUEBA TECNICA </h1>
 <h3>Tener en cuenta</h3>
--Tener laravel 12 , composer , xampp , php (version 8.2 o mayor) instalado
+-Tener laravel 12, VITE , composer , xampp , php (version 8.2 o mayor) instalado
 <br>
 <h2>Instalacion de dependencias</h2>
 -comando: composer install
