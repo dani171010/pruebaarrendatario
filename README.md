@@ -4,18 +4,20 @@
 <br>
 <h2>Instalacion de dependencias</h2>
 -comando: composer install
+<br>
 -este comando instala todas las librerias que tiene el proyecto
 
 <br>
 <h2>Base de datos</h2>
--se utilizo como motor de base de datos postgres sql.
+-se utilizo como motor de base de datos postgres sql. 
+<br>
 -comando a ejecutar para la migracion es : Php artisan migrate
 
 <br>
 
 <h2>comandos para laravel y vue</h2>
 -Para leventar el servidor de laravel y vue es el comando : composer run dev
-
+<br>
 <h2>Nvegacion entre admin y usuario</h2>
 -la ruta que se maneja para usuario (http://127.0.0.1:8000/) y para admin (http://127.0.0.1:8000/admin)
 
