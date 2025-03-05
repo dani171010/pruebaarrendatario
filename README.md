@@ -18,7 +18,7 @@
 <h2>comandos para laravel y vue</h2>
 -Para leventar el servidor de laravel y vue es el comando : composer run dev
 <br>
-<h2>Nvegacion entre admin y usuario</h2>
+<h2>Navegacion entre admin y usuario</h2>
 -la ruta que se maneja para usuario (http://127.0.0.1:8000/) y para admin (http://127.0.0.1:8000/admin)
 
 
